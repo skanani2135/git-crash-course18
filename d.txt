@@ -1,1 +1,2 @@
+d.txt -- A-B -- Pushed remotely
 d.txt -- A-C -- Pushed Locally
