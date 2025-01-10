@@ -1,1 +1,2 @@
-c.txt -- -- Pushed Locally
+c.txt --> A-B -- Pushed Rempotely
+c.txt --> A-C -- Pushed Locally
