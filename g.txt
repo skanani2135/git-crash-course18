@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 g.txt -- A-C - skanani pushed it Locally
+=======
+g.txt -- A-B - Dev1 pushed it Remotely
+>>>>>>> origin/master
