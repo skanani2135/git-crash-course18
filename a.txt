@@ -1,9 +1,3 @@
 A--B -- Updated the file remotely
 A--C-- Updated the file locally
 
-<<<<<<< HEAD
-1 line of code by Shital
-=======
-some code
->>>>>>> 4adf4d9fcf4e59882ca685cc259f8febd702b032
-1 line of code by Shital
