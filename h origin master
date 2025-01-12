@@ -1,0 +1,65 @@
+[33mf816f02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge remote-tracking branch 'origin/master'
+[33mfda002d[m someting
+[33m4adf4d9[m[33m ([m[1;31morigin/master[m[33m)[m Merge pull request #4 from skanani2135/bugFix/MAPA-41
+[33m97d3af4[m Merge branch 'master' into bugFix/MAPA-41
+[33m1fde589[m shapaniFileA.txt
+[33m33702f6[m shapani - c.txt - some code
+[33ma0e3f01[m Merge pull request #2 from skanani2135/bugFix/MAPA-31
+[33md24a558[m skanani - skananiNewFile2.txt
+[33md1926f3[m skanani - c.txt - some code
+[33m1b3617a[m skanani - b.txt - some code
+[33m8a94b6f[m skanani - a.txt - some code
+[33madead9e[m Merge pull request #1 from skanani2135/bugFix/MAPA-5
+[33m16f77b5[m shapani - Modified from Line 1 to Line 2
+[33m0aa1eda[m shapani - File5.txt - 100% bug is fixed
+[33m920028d[m shapani - File5.txt - 50% bug is fixed
+[33m7dffc30[m skanani2135 - FIle3.txt - Line 2
+[33m17428a7[m shapani - File3.txt - Line1
+[33mbdeb447[m skanani2135 - Created blank file - File3.txt
+[33m998995d[m shapani - File2.txt - Line 2
+[33m8840752[m Shital - Line 2 - File1.txt
+[33ma40c702[m Shital -- Created new File1.txt
+[33m80d3e40[m[33m ([m[1;33mtag: V1.0[m[33m)[m h.txt -- resolved conflict
+[33m2b8cb69[m h.txt -- A-C - skanani pushed it Locally
+[33mb82b48d[m h.txt -- A-B - Dev1 pushed it Remotely
+[33mb83ba1d[m ddfd
+[33mdd945b2[m dfl;dkfkd;
+[33m80783ec[m djflkdjf
+[33m40c948f[m g.txt -- A-C - skanani pushed it Locally
+[33m2adbe48[m g.txt -- A-B - Dev1 pushed it Remotely
+[33me59c8f8[m g.txt -- Created
+[33m45ddb31[m e.txt --resolved merge conflict
+[33mb65a0ea[m f.txt -- A-C - skanani pushed it Locally
+[33mac8c78f[m f.txt -- A-B - Dev1 pushed it Remotely
+[33mdfc3109[m f.txt -- created
+[33me9c4774[m something
+[33m2361177[m e.txt -- A-D - Dev2 pushed it remotely
+[33m6e147c6[m e.txt -- A-C - skanani pushed it Locally
+[33m2b5c1fb[m e.txt -- A-B - Dev1 pushed it remotely
+[33mdbd10e9[m e.txt -- Created
+[33me86792b[m Resolved conflict
+[33m5543053[m d.txt -- A-C -- Pushed Locally
+[33mc28ac19[m d.txt -- A-B -- Pushed remotely
+[33m3957666[m d.txt created
+[33mcf9424f[m Commiting changes
+[33m0f0510a[m c.txt --> A-C -- Pushed Locally
+[33mcdb8aa8[m c.txt --> A-B -- Pushed Rempotely
+[33m8f1a829[m[33m ([m[1;33mtag: C.txt_V1.0[m[33m)[m c.txt -- Created c.txt
+[33maa06303[m b.txt -- Merge conflict resolved
+[33m55fcf94[m A--C -- Localy  pushed by skanani -- b.txt
+[33mbf4696b[m A--B -- Remotely pushed by some dev -- b.txt
+[33mcfc1bd9[m New Blank b.txt has been created
+[33m7a9b505[m Resolved merge conflict
+[33m3992245[m A--C -- Updated the file Locally
+[33mfa81dba[m A--B -- Updated the file remotely
+[33m1fb6fc5[m Created a.txt
+[33m000bc1e[m Resolved conflict bet mater and origin/master
+[33m635479c[m A-->C --Updated only in local  branch
+[33mc6ef92b[m A-->B --Updated only in remote branch
+[33mabf75cb[m Resolved git conflict
+[33m10e4585[m line 5 directly to local  master branch
+[33m9273bc2[m README.md - Adding line 4 directly to remote master branch
+[33m834058b[m Update README.md
+[33mae2d8fd[m Update README.md
+[33m0957be9[m Update README.md
+[33m35173c6[m Adding READ.md
