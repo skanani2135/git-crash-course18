@@ -1,2 +1,3 @@
 A--B -- Remotely pushed by some dev -- b.txt
 A--C -- Localy pushed by skanani -- b.txt
+1 line of code by Shital
